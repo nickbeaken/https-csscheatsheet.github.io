@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+main {
+    margin: 150px 0;
+}
+
+header {
+    background-color: beige;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+section {
+    margin: 10px;
+    border: black 2px solid;
+    box-shadow: 0px 5px 5px;
+    background-color: whitesmoke;
+}
+
+.codeword {
+    background-color: gray;
+    color: skyblue;
+    font-family: monospace;
+}
+
+.topic {
+    text-align: center;
+    font-size: 40px;
+}
+
+table {
+    margin: 10px;
+    border: 2px black solid;
+    box-shadow: 0px 2px 2px;
+    margin: 10px;
+    width: 97%;
+}
+thead {
+    background-color: beige;
+}
+p {
+    margin: 10px;
+    font-family: 'work sans', sans-serif;
+}
+h1 {
+    font-family: 'Open Sans', sans-serif ;
+}
+td {
+    border-bottom: black 1px solid;
+    border-top: black 1px solid ;
+}
+footer {
+    border-top: black 2px solid;
+    background-color: beige;
+    height: 100%;
+    width: 100%;
+}
+.title {
+    border: black 2px double;
+    margin: 0 150px;
+}
